@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    height:250px;
+    padding-bottom:10px;
+}
+li{
+    color:darkblue;
+    background-color:gold;
+    
+    
+}
+.random{ 
+    display:flex;
+    justify-content:center;}
